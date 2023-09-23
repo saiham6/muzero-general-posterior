@@ -11,7 +11,7 @@
 
 This repository has deviated from the original [repository](https://github.com/werner-duvaud/muzero-general/) by several commits and decided to create a new repository with Posterior Sampling Strategies implemented.
 
-Please refer to the [paper provided](https://github.com/saiham6/muzero-general-posterior/paper.pdf) for the algorithm, results and improvements of the project. 
+Please refer to the [paper provided](paper.pdf) for the algorithm, results and improvements of the project. 
 
 Please refer to this [repository](https://github.com/saiham6/mcts-posterior/) for the Proof-of-Concept of Posterior Sampling Strategies of the project. 
 
